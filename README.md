@@ -2,7 +2,8 @@
 
 #### Technical Skills: Python, SQL, MATLAB, Java, Excel, PowerPoint, 
 
-## Education			       		
+## Education
+
 - M.S.I.S., Business Analytics	| Marist College, Poughkeepsie NY (_August 2024_)	 			        		
 - B.S., Computer Science, Minor in Business Administration | University of South Carolina - Upstate, Spartanburg SC (_May 2023_)
 
@@ -11,6 +12,7 @@ Algorithms; Design, analysis and testing of advanced data structures; Statistica
 Financial Statement Analysis, Assets management
 
 ## Work Experience
+
 **Purchasing Manager @ Corporate Loyalty LLC, Remote (_September 2023 - May 2024_)**
 - Develop and execute strategic procurement plans, optimizing costs and ensuring timely availability of goods/services.
 - Evaluate and select suppliers, negotiated contracts, and managed vendor relationships to enhance overall supply chain
