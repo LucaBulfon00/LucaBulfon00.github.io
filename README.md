@@ -32,13 +32,12 @@ system (Quantum GIS)
 - Learned concepts of Visual Basic to create and handle Macros in Excel.
 
 ## 👨‍💻 Projects
-<h3> My Projects:</h3>
 
-- <b>Python</b>
+**Python**
   - [Will it Rain in Australia? (Using Data Mining to Predict Rainfall)](https://github.com/LucaBulfon00/DataMining-Australia)
-- <b>Excel</b>
+**Excel**
   - [Forecasting Sales for a Clothing Company](https://github.com/LucaBulfon00/SalesForecast)
-- <b>SQL</b>
+**SQL**
 
 ## 🤳 Connect with me:
 [<img align="left" alt="LucaBulfon | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
