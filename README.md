@@ -37,8 +37,10 @@ system (Quantum GIS)
 
 **Python**
   - [Will it Rain in Australia? (Using Data Mining to Predict Rainfall)](https://github.com/LucaBulfon00/DataMining-Australia)
+    
 **Excel**
   - [Forecasting Sales for a Clothing Company](https://github.com/LucaBulfon00/SalesForecast)
+
 **SQL**
 
 ## 🤳 Connect with me:
