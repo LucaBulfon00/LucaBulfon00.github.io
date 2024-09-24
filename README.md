@@ -1,4 +1,4 @@
-# Data Analyst 📊
+# 📊 Data Analyst
 
 #### Technical Skills: Python, SQL, MATLAB, Java, Excel, PowerPoint, 
 
